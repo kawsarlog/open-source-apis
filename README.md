@@ -21,7 +21,7 @@
 
 ## At a Glance
 
-> **934** production-ready Open Source APIs for tapping repos, packages, and developer ecosystems.
+> **934** production-ready Open Source APIs.
 
 A focused, always-fresh index of Open Source APIs for tapping repos, packages, and developer ecosystems. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
