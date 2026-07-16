@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/kawsarlog/open-source-apis?style=for-the-badge&color=8b5cf6)](https://github.com/kawsarlog/open-source-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/kawsarlog/open-source-apis?style=for-the-badge&color=ec4899)](https://github.com/kawsarlog/open-source-apis/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/kawsarlog/open-source-apis?style=for-the-badge&color=a78bfa)](https://github.com/kawsarlog/open-source-apis/commits/main)
-[![APIs](https://img.shields.io/badge/APIs-934-fbbf24?style=for-the-badge)](#)
+[![APIs](https://img.shields.io/badge/APIs-942-fbbf24?style=for-the-badge)](#)
 
 <p>
   <a href="#at-a-glance"><b>At a Glance</b></a> &nbsp;•&nbsp;
@@ -21,15 +21,15 @@
 
 ## At a Glance
 
-> **934** production-ready Open Source APIs.
+> **942** production-ready Open Source APIs.
 
 A focused, always-fresh index of Open Source APIs for tapping repos, packages, and developer ecosystems. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
 | Metric | Value |
 |--------|-------|
-| **Total APIs** | **934** |
+| **Total APIs** | **942** |
 | **Categories** | 1 |
-| **Last updated** | 2026-07-15 |
+| **Last updated** | 2026-07-16 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -38,7 +38,7 @@ A focused, always-fresh index of Open Source APIs for tapping repos, packages, a
   <tr>
     <td width="100%" valign="top">
       <h3>Open Source</h3>
-      <p><strong>934 APIs</strong></p>
+      <p><strong>942 APIs</strong></p>
       <p>Repos, packages, and ecosystem data across open-source registries.</p>
       <p><a href="./Open_source/"><strong>Open Open Source &rarr;</strong></a></p>
     </td>
@@ -55,7 +55,7 @@ A focused, always-fresh index of Open Source APIs for tapping repos, packages, a
 ## Explore the Stack
 
 <details open>
-<summary><strong>Open Source — 934 APIs</strong></summary>
+<summary><strong>Open Source — 942 APIs</strong></summary>
 
 Repos, packages, and ecosystem data across open-source registries.
 
@@ -95,7 +95,7 @@ Repos, packages, and ecosystem data across open-source registries.
 
 <div align="center">
 
-**934 APIs** across **1 categories** — updated 2026-07-15
+**942 APIs** across **1 categories** — updated 2026-07-16
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
